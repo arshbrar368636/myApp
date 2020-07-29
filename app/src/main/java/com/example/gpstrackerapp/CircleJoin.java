@@ -1,0 +1,13 @@
+package com.example.gpstrackerapp;
+
+public class CircleJoin {
+    public  String circlememberid;
+
+    public CircleJoin(String circlememberid)
+    {
+        this.circlememberid = circlememberid;
+    }
+
+    public CircleJoin()
+    {}
+}
